@@ -1,0 +1,29 @@
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA / VS Code ###
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+
+### Spring Boot ###
+*.log
+spring-shell.log
+
+### Credenciales (NUNCA subir al repo) ###
+application-prod.properties
+*.jks
+*.p12
+wallet/
+
+### OS ###
+.DS_Store
+Thumbs.db
