@@ -1,7 +1,7 @@
 # 🎓 CDY2204 – Sistema de Inscripción de Cursos
 
 > Proyecto de microservicios con **Spring Boot** para la asignatura **Desarrollo Cloud Native**  
-> Semana 1 – Forma C | Fundación Duoc UC
+> Semana 4 | Fundación Duoc UC
 
 ---
 
